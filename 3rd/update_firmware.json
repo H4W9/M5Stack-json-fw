@@ -764,12 +764,12 @@
         "devices": [
             {
                 "name": "Marauder V8",
-                "asset_contains": "ESP32_Library*v8.bin",
+                "asset_contains": "esp32_library*v8.bin",
                 "json": "marauder-v8.json"
             },
             {
                 "name": "Pancake",
-                "asset_contains": "ESP32_Library*pancake.bin",
+                "asset_contains": "esp32_library*pancake.bin",
                 "json": "pancake.json"
             }
         ]
